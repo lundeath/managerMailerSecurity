@@ -1,0 +1,12 @@
+POST http://localhost:8080/register
+
+<> 2018-11-05T030019.400.json
+
+###
+
+GET http://localhost:8080
+
+<> 2018-11-05T015311.200.html
+
+###
+

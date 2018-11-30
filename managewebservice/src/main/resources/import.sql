@@ -1,0 +1,2 @@
+insert into users(username, password, enabled) values ('natep@jbnote.com','1234', true), ('admin@login.com', '1234', true), ('user@login.com', '1234', true),('user1@login.com', '1234', true),('user2@login.com', '1234', true),('user3@login.com', '1234', true),('user4@login.com', '1234', true);
+insert into user_roles (username, role) values ('natep@jbnote.com','ROLE_USER'),('admin@login.com','ROLE_ADMIN'),('user@login.com','ROLE_USER'),('user1@login.com','ROLE_USER'),('user2@login.com','ROLE_USER'),('user3@login.com','ROLE_USER'),('user4@login.com','ROLE_USER');
